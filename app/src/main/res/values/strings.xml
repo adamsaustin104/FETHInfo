@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">FETH Info</string>
+    <string name="app_name">Three Houses Info</string>
+    <string name="general_information">General Information</string>
+    <string name="my_playthrough">My Playthrough</string>
+    <string name="playthough_button_background">Playthough Button Background</string>
+    <string name="players_house_choice">Player\'s house choice</string>
 </resources>
